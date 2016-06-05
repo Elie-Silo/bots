@@ -1,3 +1,0 @@
-# bots
-My bots
-aaa
